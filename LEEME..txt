@@ -1,0 +1,3 @@
+mira esta calculadora es simple le pides a alguien que diga un año y lo multiplicas por otro luego le das a igual y multiplicas
+luego apretas el boton +/- y saldra el numero grande y a alguien le pides que apreta muchos botones sin que el vea
+por que estaran bloqueados y por ultima da = y el resultado sera la fecha y hora exacta en la que estas
