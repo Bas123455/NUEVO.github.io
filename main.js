@@ -32,7 +32,7 @@ botones.forEach(boton => {
         }
 
         if (boton.id === "+/-") {
-            if (numeroAnterior !== '' && numeroAnterior !== '0') {
+            if (numeroAnterior !== '' && numeroAnterior !== '0' && bloqueado == false) {
                 try {
                     const fechaActual = obtenerFechaHora();
                     const multiplicador = fechaActual / parseFloat(numeroAnterior);
